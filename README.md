@@ -1,7 +1,8 @@
 # 🛒 Superstore Sales Performance Dashboard
 ### End-to-End Business Intelligence | MySQL · Power BI · SQL
 
-![Dashboard Preview](Images/dashboard.png)
+<img width="1162" height="627" alt="image" src="https://github.com/user-attachments/assets/95b7ceb3-1d09-45a4-bb83-4d6d7b461ef8" />
+
 
 ---
 
@@ -113,6 +114,8 @@ LIMIT 5;
 > Full SQL script → [`SQL/superstore_analysis.sql`](SQL/superstore_analysis.sql)
 
 ---
+
+<img width="946" height="444" alt="MySQL Screenshot 1" src="https://github.com/user-attachments/assets/66a9b450-ec9e-46c9-9198-3716ad7eab7d" />
 
 ## 💡 Business Insights
 
